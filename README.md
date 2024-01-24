@@ -7,5 +7,5 @@ Como algumas melhorias a serem feitas nesse projeto inicial, segue um TODO a ser
 - [ ] Camada Service
 - [ ] Camada Contract (Ou algo similar do usado no framework do Ruby on Rails)
 - [ ] Paginação e Filtros
-- [ ] Adicionar Swagger
+- [x] Adicionar Swagger
 - [ ] Adicionar integração com AWS ou GCP
